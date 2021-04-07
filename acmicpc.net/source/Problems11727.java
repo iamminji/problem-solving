@@ -30,7 +30,7 @@ public class Problems11727 {
 
   public static void main(String[] args) {
 
-      Main main = new Main();
+      Problems11727 main = new Problems11727();
 
       Scanner sc = new Scanner(System.in);
       int tile = sc.nextInt();
